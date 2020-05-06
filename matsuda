@@ -1,0 +1,6 @@
+echo "# hellow-All" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/HiroyasuMatsuda3/hellow-All.git
+git push -u origin master
